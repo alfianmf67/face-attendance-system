@@ -1,5 +1,6 @@
 # scripts/collect_data.py
 import streamlit as st
+import cv2
 import os
 from datetime import datetime
 
